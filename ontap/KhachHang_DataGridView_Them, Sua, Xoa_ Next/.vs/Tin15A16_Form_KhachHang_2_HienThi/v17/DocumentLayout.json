@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Tin15A16_Form_KhachHang_2_HienThi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FAEE343-AA62-4B73-A900-BEF95F10B682}|Form_KhachHang\\Form_KhachHang.csproj|c:\\users\\administrator\\desktop\\tin15a16_form_khachhang_2_hienthi\\form_khachhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FAEE343-AA62-4B73-A900-BEF95F10B682}|Form_KhachHang\\Form_KhachHang.csproj|solutionrelative:form_khachhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FAEE343-AA62-4B73-A900-BEF95F10B682}|Form_KhachHang\\Form_KhachHang.csproj|c:\\users\\administrator\\desktop\\tin15a16_form_khachhang_2_hienthi\\form_khachhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FAEE343-AA62-4B73-A900-BEF95F10B682}|Form_KhachHang\\Form_KhachHang.csproj|solutionrelative:form_khachhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Tin15A16_Form_KhachHang_2_HienThi\\Form_KhachHang\\Form1.cs",
+              "RelativeDocumentMoniker": "Form_KhachHang\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Tin15A16_Form_KhachHang_2_HienThi\\Form_KhachHang\\Form1.cs",
+              "RelativeToolTip": "Form_KhachHang\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:26:30.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Tin15A16_Form_KhachHang_2_HienThi\\Form_KhachHang\\Form1.cs",
+              "RelativeDocumentMoniker": "Form_KhachHang\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Tin15A16_Form_KhachHang_2_HienThi\\Form_KhachHang\\Form1.cs [Design]",
+              "RelativeToolTip": "Form_KhachHang\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:25:20.04Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

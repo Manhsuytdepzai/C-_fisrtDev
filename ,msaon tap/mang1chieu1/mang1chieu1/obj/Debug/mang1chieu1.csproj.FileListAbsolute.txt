@@ -1,0 +1,7 @@
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu1\mang1chieu1\obj\Debug\mang1chieu1.csproj.AssemblyReference.cache
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu1\mang1chieu1\obj\Debug\mang1chieu1.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu1\mang1chieu1\bin\Debug\mang1chieu1.exe.config
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu1\mang1chieu1\bin\Debug\mang1chieu1.exe
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu1\mang1chieu1\bin\Debug\mang1chieu1.pdb
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu1\mang1chieu1\obj\Debug\mang1chieu1.exe
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu1\mang1chieu1\obj\Debug\mang1chieu1.pdb

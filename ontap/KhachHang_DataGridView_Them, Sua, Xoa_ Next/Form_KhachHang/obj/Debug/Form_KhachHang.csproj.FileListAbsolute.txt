@@ -1,0 +1,147 @@
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_1\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_1\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_1\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_1\Form_KhachHang\obj\Debug\Form_KhachHang.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_1\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_1\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_1\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_1\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_1\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_1\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_1\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_1\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_1\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_1\Form_KhachHang\obj\Debug\Form_KhachHang.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_1\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_1\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_1\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_1\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_1\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_1\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_GoiDuLieu_2\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_2_HienThi\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_2_HienThi\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_2_HienThi\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_2_HienThi\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_2_HienThi\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_2_HienThi\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_2_HienThi\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_2_HienThi\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_2_HienThi\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_2_HienThi\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_3_Them\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_3_Them\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_3_Them\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_3_Them\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_3_Them\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_3_Them\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_3_Them\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_3_Them\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_3_Them\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_3_Them\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_3_Them_2\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_3_Them_2\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_3_Them_2\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_3_Them_2\Form_KhachHang\obj\Debug\Form_KhachHang.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_3_Them_2\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_3_Them_2\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_3_Them_2\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_3_Them_2\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_3_Them_2\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A16_Form_KhachHang_3_Them_2\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_0_Form\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_0_Form\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_0_Form\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_0_Form\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_0_Form\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_0_Form\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_0_Form\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_1_Them\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_1_Them\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_1_Them\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_1_Them\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_1_Them\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_1_Them\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_1_Them\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_1_Them\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_1_Them\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_1_Them\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_2_Chon\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_2_Chon\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_2_Chon\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_2_Chon\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_2_Chon\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_2_Chon\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_2_Chon\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_2_Chon\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_2_Chon\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_2_Chon\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_3_Sua\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_3_Sua\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_3_Sua\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_3_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_3_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_3_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_3_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_3_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_3_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_3_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_4_Sua\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_4_Sua\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_4_Sua\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_4_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_4_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_4_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_4_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_4_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_4_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_4_Sua\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_5_Xoa\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_5_Xoa\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_5_Xoa\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_5_Xoa\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_5_Xoa\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_5_Xoa\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_5_Xoa\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_5_Xoa\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_5_Xoa\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A16_Form_KhachHang_DataGridView_5_Xoa\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\Vu Anh Tuan\Desktop\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+C:\Users\mmmma\Documents\Documents\c#\ontap\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+C:\Users\mmmma\Documents\Documents\c#\ontap\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+C:\Users\mmmma\Documents\Documents\c#\ontap\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+C:\Users\mmmma\Documents\Documents\c#\ontap\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.AssemblyReference.cache
+C:\Users\mmmma\Documents\Documents\c#\ontap\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.frm_DanhSachKhachHang.resources
+C:\Users\mmmma\Documents\Documents\c#\ontap\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+C:\Users\mmmma\Documents\Documents\c#\ontap\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+C:\Users\mmmma\Documents\Documents\c#\ontap\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\ontap\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+C:\Users\mmmma\Documents\Documents\c#\ontap\KhachHang_DataGridView_Them, Sua, Xoa_ Next\Form_KhachHang\obj\Debug\Form_KhachHang.pdb

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\TrinhVanManh_winform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6F586E-C4B0-4CBD-A76A-8D1322D18E87}|TrinhVanManh_winform\\TrinhVanManh_winform.csproj|C:\\Users\\mmmma\\Documents\\Documents\\c#\\TrinhVanManh_winform\\trinhvanmanh_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE6F586E-C4B0-4CBD-A76A-8D1322D18E87}|TrinhVanManh_winform\\TrinhVanManh_winform.csproj|solutionrelative:trinhvanmanh_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6F586E-C4B0-4CBD-A76A-8D1322D18E87}|TrinhVanManh_winform\\TrinhVanManh_winform.csproj|C:\\Users\\mmmma\\Documents\\Documents\\c#\\TrinhVanManh_winform\\trinhvanmanh_winform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE6F586E-C4B0-4CBD-A76A-8D1322D18E87}|TrinhVanManh_winform\\TrinhVanManh_winform.csproj|solutionrelative:trinhvanmanh_winform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6F586E-C4B0-4CBD-A76A-8D1322D18E87}|TrinhVanManh_winform\\TrinhVanManh_winform.csproj|C:\\Users\\mmmma\\Documents\\Documents\\c#\\TrinhVanManh_winform\\trinhvanmanh_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6F586E-C4B0-4CBD-A76A-8D1322D18E87}|TrinhVanManh_winform\\TrinhVanManh_winform.csproj|solutionrelative:trinhvanmanh_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6F586E-C4B0-4CBD-A76A-8D1322D18E87}|TrinhVanManh_winform\\TrinhVanManh_winform.csproj|c:\\users\\mmmma\\documents\\documents\\c#\\trinhvanmanh_winform\\trinhvanmanh_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6F586E-C4B0-4CBD-A76A-8D1322D18E87}|TrinhVanManh_winform\\TrinhVanManh_winform.csproj|solutionrelative:trinhvanmanh_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\TrinhVanManh_winform\\TrinhVanManh_winform\\Form1.cs",
+              "RelativeDocumentMoniker": "TrinhVanManh_winform\\Form1.cs",
+              "ToolTip": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\TrinhVanManh_winform\\TrinhVanManh_winform\\Form1.cs",
+              "RelativeToolTip": "TrinhVanManh_winform\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAtwBwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:43:38.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\TrinhVanManh_winform\\TrinhVanManh_winform\\Program.cs",
+              "RelativeDocumentMoniker": "TrinhVanManh_winform\\Program.cs",
+              "ToolTip": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\TrinhVanManh_winform\\TrinhVanManh_winform\\Program.cs",
+              "RelativeToolTip": "TrinhVanManh_winform\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:45:06.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\TrinhVanManh_winform\\TrinhVanManh_winform\\Form1.cs",
+              "RelativeDocumentMoniker": "TrinhVanManh_winform\\Form1.cs",
+              "ToolTip": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\TrinhVanManh_winform\\TrinhVanManh_winform\\Form1.cs [Design]",
+              "RelativeToolTip": "TrinhVanManh_winform\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:02:02.521Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\TrinhVanManh_winform\\TrinhVanManh_winform\\Form2.cs",
+              "RelativeDocumentMoniker": "TrinhVanManh_winform\\Form2.cs",
+              "ToolTip": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\TrinhVanManh_winform\\TrinhVanManh_winform\\Form2.cs [Design]",
+              "RelativeToolTip": "TrinhVanManh_winform\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:20:01.329Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

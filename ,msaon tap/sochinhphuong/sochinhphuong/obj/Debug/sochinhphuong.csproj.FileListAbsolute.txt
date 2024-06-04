@@ -1,0 +1,7 @@
+C:\Users\mmmma\Documents\Documents\c#\sochinhphuong\sochinhphuong\bin\Debug\sochinhphuong.exe.config
+C:\Users\mmmma\Documents\Documents\c#\sochinhphuong\sochinhphuong\bin\Debug\sochinhphuong.exe
+C:\Users\mmmma\Documents\Documents\c#\sochinhphuong\sochinhphuong\bin\Debug\sochinhphuong.pdb
+C:\Users\mmmma\Documents\Documents\c#\sochinhphuong\sochinhphuong\obj\Debug\sochinhphuong.csproj.AssemblyReference.cache
+C:\Users\mmmma\Documents\Documents\c#\sochinhphuong\sochinhphuong\obj\Debug\sochinhphuong.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\sochinhphuong\sochinhphuong\obj\Debug\sochinhphuong.exe
+C:\Users\mmmma\Documents\Documents\c#\sochinhphuong\sochinhphuong\obj\Debug\sochinhphuong.pdb

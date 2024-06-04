@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\ontap\\Tin15A14_DanhSachKhachHang_DataGridView_3_Them_C2_Builder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB7FB1-8391-4B4B-A906-93346B4ED292}|DanhSachKhachHang_1_Form\\DanhSachKhachHang_1_Form.csproj|c:\\users\\mmmma\\documents\\documents\\c#\\ontap\\tin15a14_danhsachkhachhang_datagridview_3_them_c2_builder\\danhsachkhachhang_1_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAB7FB1-8391-4B4B-A906-93346B4ED292}|DanhSachKhachHang_1_Form\\DanhSachKhachHang_1_Form.csproj|solutionrelative:danhsachkhachhang_1_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB7FB1-8391-4B4B-A906-93346B4ED292}|DanhSachKhachHang_1_Form\\DanhSachKhachHang_1_Form.csproj|C:\\Users\\mmmma\\Documents\\Documents\\c#\\ontap\\Tin15A14_DanhSachKhachHang_DataGridView_3_Them_C2_Builder\\danhsachkhachhang_1_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EAB7FB1-8391-4B4B-A906-93346B4ED292}|DanhSachKhachHang_1_Form\\DanhSachKhachHang_1_Form.csproj|solutionrelative:danhsachkhachhang_1_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB7FB1-8391-4B4B-A906-93346B4ED292}|DanhSachKhachHang_1_Form\\DanhSachKhachHang_1_Form.csproj|C:\\Users\\mmmma\\Documents\\Documents\\c#\\ontap\\Tin15A14_DanhSachKhachHang_DataGridView_3_Them_C2_Builder\\danhsachkhachhang_1_form\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAB7FB1-8391-4B4B-A906-93346B4ED292}|DanhSachKhachHang_1_Form\\DanhSachKhachHang_1_Form.csproj|solutionrelative:danhsachkhachhang_1_form\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\ontap\\Tin15A14_DanhSachKhachHang_DataGridView_3_Them_C2_Builder\\DanhSachKhachHang_1_Form\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DanhSachKhachHang_1_Form\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\ontap\\Tin15A14_DanhSachKhachHang_DataGridView_3_Them_C2_Builder\\DanhSachKhachHang_1_Form\\Form1.Designer.cs",
+              "RelativeToolTip": "DanhSachKhachHang_1_Form\\Form1.Designer.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAhwPIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:58:07.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\ontap\\Tin15A14_DanhSachKhachHang_DataGridView_3_Them_C2_Builder\\DanhSachKhachHang_1_Form\\Form1.cs",
+              "RelativeDocumentMoniker": "DanhSachKhachHang_1_Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\ontap\\Tin15A14_DanhSachKhachHang_DataGridView_3_Them_C2_Builder\\DanhSachKhachHang_1_Form\\Form1.cs",
+              "RelativeToolTip": "DanhSachKhachHang_1_Form\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAMwCIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:58:56.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\ontap\\Tin15A14_DanhSachKhachHang_DataGridView_3_Them_C2_Builder\\DanhSachKhachHang_1_Form\\Form1.cs",
+              "RelativeDocumentMoniker": "DanhSachKhachHang_1_Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\ontap\\Tin15A14_DanhSachKhachHang_DataGridView_3_Them_C2_Builder\\DanhSachKhachHang_1_Form\\Form1.cs [Design]",
+              "RelativeToolTip": "DanhSachKhachHang_1_Form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:57:10.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\bin\Debug\net8.0\mang1chieu.exe
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\bin\Debug\net8.0\mang1chieu.deps.json
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\bin\Debug\net8.0\mang1chieu.runtimeconfig.json
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\bin\Debug\net8.0\mang1chieu.dll
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\bin\Debug\net8.0\mang1chieu.pdb
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\obj\Debug\net8.0\mang1chieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\obj\Debug\net8.0\mang1chieu.AssemblyInfoInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\obj\Debug\net8.0\mang1chieu.AssemblyInfo.cs
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\obj\Debug\net8.0\mang1chieu.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\obj\Debug\net8.0\mang1chieu.dll
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\obj\Debug\net8.0\refint\mang1chieu.dll
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\obj\Debug\net8.0\mang1chieu.pdb
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\obj\Debug\net8.0\mang1chieu.genruntimeconfig.cache
+C:\Users\mmmma\Documents\Documents\c#\mang1chieu\mang1chieu\obj\Debug\net8.0\ref\mang1chieu.dll

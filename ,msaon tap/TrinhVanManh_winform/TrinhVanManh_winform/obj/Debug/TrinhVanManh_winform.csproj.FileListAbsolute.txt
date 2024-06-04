@@ -1,0 +1,11 @@
+C:\Users\mmmma\Documents\Documents\c#\TrinhVanManh_winform\TrinhVanManh_winform\bin\Debug\TrinhVanManh_winform.exe.config
+C:\Users\mmmma\Documents\Documents\c#\TrinhVanManh_winform\TrinhVanManh_winform\bin\Debug\TrinhVanManh_winform.exe
+C:\Users\mmmma\Documents\Documents\c#\TrinhVanManh_winform\TrinhVanManh_winform\bin\Debug\TrinhVanManh_winform.pdb
+C:\Users\mmmma\Documents\Documents\c#\TrinhVanManh_winform\TrinhVanManh_winform\obj\Debug\TrinhVanManh_winform.csproj.AssemblyReference.cache
+C:\Users\mmmma\Documents\Documents\c#\TrinhVanManh_winform\TrinhVanManh_winform\obj\Debug\TrinhVanManh_winform.Form1.resources
+C:\Users\mmmma\Documents\Documents\c#\TrinhVanManh_winform\TrinhVanManh_winform\obj\Debug\TrinhVanManh_winform.Properties.Resources.resources
+C:\Users\mmmma\Documents\Documents\c#\TrinhVanManh_winform\TrinhVanManh_winform\obj\Debug\TrinhVanManh_winform.csproj.GenerateResource.cache
+C:\Users\mmmma\Documents\Documents\c#\TrinhVanManh_winform\TrinhVanManh_winform\obj\Debug\TrinhVanManh_winform.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\TrinhVanManh_winform\TrinhVanManh_winform\obj\Debug\TrinhVanManh_winform.exe
+C:\Users\mmmma\Documents\Documents\c#\TrinhVanManh_winform\TrinhVanManh_winform\obj\Debug\TrinhVanManh_winform.pdb
+C:\Users\mmmma\Documents\Documents\c#\TrinhVanManh_winform\TrinhVanManh_winform\obj\Debug\TrinhVanManh_winform.Form2.resources

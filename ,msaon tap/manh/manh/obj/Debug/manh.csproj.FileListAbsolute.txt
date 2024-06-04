@@ -1,0 +1,2 @@
+C:\Users\mmmma\Documents\Documents\c#\manh\manh\obj\Debug\manh.csproj.AssemblyReference.cache
+C:\Users\mmmma\Documents\Documents\c#\manh\manh\obj\Debug\manh.csproj.CoreCompileInputs.cache

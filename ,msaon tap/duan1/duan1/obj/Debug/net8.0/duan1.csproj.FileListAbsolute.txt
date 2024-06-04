@@ -1,0 +1,14 @@
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\obj\Debug\net8.0\duan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\obj\Debug\net8.0\duan1.AssemblyInfoInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\obj\Debug\net8.0\duan1.AssemblyInfo.cs
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\obj\Debug\net8.0\duan1.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\bin\Debug\net8.0\duan1.exe
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\bin\Debug\net8.0\duan1.deps.json
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\bin\Debug\net8.0\duan1.runtimeconfig.json
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\bin\Debug\net8.0\duan1.dll
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\bin\Debug\net8.0\duan1.pdb
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\obj\Debug\net8.0\duan1.dll
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\obj\Debug\net8.0\refint\duan1.dll
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\obj\Debug\net8.0\duan1.pdb
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\obj\Debug\net8.0\duan1.genruntimeconfig.cache
+C:\Users\mmmma\Documents\Documents\c#\duan1\duan1\obj\Debug\net8.0\ref\duan1.dll

@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{496E5257-5050-4506-93D9-38202D71C773}|QuanLyNhaHang\\QuanLyNhaHang.csproj|c:\\users\\mmmma\\documents\\documents\\c#\\manh\\doan1_qlnhahang (2)\\quanlynhahang\\quanlynhahang\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496E5257-5050-4506-93D9-38202D71C773}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496E5257-5050-4506-93D9-38202D71C773}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\quanlynhahang\\fmana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496E5257-5050-4506-93D9-38202D71C773}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\fmana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496E5257-5050-4506-93D9-38202D71C773}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\quanlynhahang\\fmana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{496E5257-5050-4506-93D9-38202D71C773}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\fmana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496E5257-5050-4506-93D9-38202D71C773}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\quanlynhahang\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{496E5257-5050-4506-93D9-38202D71C773}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496E5257-5050-4506-93D9-38202D71C773}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\quanlynhahang\\fmana.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496E5257-5050-4506-93D9-38202D71C773}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\fmana.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\QuanLyNhaHang\\fLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\fLogin.cs",
+              "ToolTip": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\QuanLyNhaHang\\fLogin.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHang\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:37:35.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fMana.cs",
+              "DocumentMoniker": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\QuanLyNhaHang\\fMana.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\fMana.cs",
+              "ToolTip": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\QuanLyNhaHang\\fMana.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\fMana.cs",
+              "ViewState": "AQIAAOkCAAAAAAAAAAAmwPUCAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:03:36.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\QuanLyNhaHang\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\QuanLyNhaHang\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\DAO\\DataProvider.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:20:55.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fMana.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\QuanLyNhaHang\\fMana.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\fMana.Designer.cs",
+              "ToolTip": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\QuanLyNhaHang\\fMana.Designer.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\fMana.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:58:26.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fMana.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\QuanLyNhaHang\\fMana.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\fMana.cs",
+              "ToolTip": "C:\\Users\\mmmma\\Documents\\Documents\\c#\\manh\\DoAn1_QlNhaHang (2)\\QuanLyNhaHang\\QuanLyNhaHang\\fMana.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHang\\fMana.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:55:41.488Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

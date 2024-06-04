@@ -1,0 +1,80 @@
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_1_Form\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_1_Form\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_1_Form\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_1_Form\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_1_Form\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.frm_KhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_1_Form\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_1_Form\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_1_Form\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_1_Form\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_1_Form\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_2_GoiDuLieu_1\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_2_GoiDuLieu_1\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_2_GoiDuLieu_1\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_2_GoiDuLieu_1\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_2_GoiDuLieu_1\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.frm_KhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_2_GoiDuLieu_1\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_2_GoiDuLieu_1\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_2_GoiDuLieu_1\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_2_GoiDuLieu_1\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_2_GoiDuLieu_1\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_4_GoiDuLieu_2\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_4_GoiDuLieu_2\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_4_GoiDuLieu_2\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_4_GoiDuLieu_2\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_4_GoiDuLieu_2\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.frm_KhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_4_GoiDuLieu_2\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_4_GoiDuLieu_2\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_4_GoiDuLieu_2\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_4_GoiDuLieu_2\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_4_GoiDuLieu_2\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_5_ThemDuLieu\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_5_ThemDuLieu\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_5_ThemDuLieu\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_5_ThemDuLieu\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_5_ThemDuLieu\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.frm_KhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_5_ThemDuLieu\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_5_ThemDuLieu\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_5_ThemDuLieu\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_5_ThemDuLieu\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_5_ThemDuLieu\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_6_XoaToanBo\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_6_XoaToanBo\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_6_XoaToanBo\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_6_XoaToanBo\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_6_XoaToanBo\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.frm_KhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_6_XoaToanBo\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_6_XoaToanBo\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_6_XoaToanBo\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_6_XoaToanBo\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_6_XoaToanBo\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_7_Xoa\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_7_Xoa\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_7_Xoa\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_7_Xoa\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_7_Xoa\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.frm_KhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_7_Xoa\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_7_Xoa\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_7_Xoa\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_7_Xoa\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_7_Xoa\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.frm_KhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\mmmma\Documents\Documents\c#\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe.config
+C:\Users\mmmma\Documents\Documents\c#\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\mmmma\Documents\Documents\c#\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\bin\Debug\DanhSachKhachHang_1_Form.pdb
+C:\Users\mmmma\Documents\Documents\c#\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.AssemblyReference.cache
+C:\Users\mmmma\Documents\Documents\c#\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.frm_KhachHang.resources
+C:\Users\mmmma\Documents\Documents\c#\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.Properties.Resources.resources
+C:\Users\mmmma\Documents\Documents\c#\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.GenerateResource.cache
+C:\Users\mmmma\Documents\Documents\c#\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.exe
+C:\Users\mmmma\Documents\Documents\c#\Tin15A14_DanhSachKhachHang_8_Thoat\DanhSachKhachHang_1_Form\obj\Debug\DanhSachKhachHang_1_Form.pdb

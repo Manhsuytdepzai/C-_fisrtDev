@@ -1,0 +1,7 @@
+C:\Users\mmmma\Documents\Documents\c#\mang\mang\bin\Debug\mang.exe.config
+C:\Users\mmmma\Documents\Documents\c#\mang\mang\bin\Debug\mang.exe
+C:\Users\mmmma\Documents\Documents\c#\mang\mang\bin\Debug\mang.pdb
+C:\Users\mmmma\Documents\Documents\c#\mang\mang\obj\Debug\mang.csproj.AssemblyReference.cache
+C:\Users\mmmma\Documents\Documents\c#\mang\mang\obj\Debug\mang.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\mang\mang\obj\Debug\mang.exe
+C:\Users\mmmma\Documents\Documents\c#\mang\mang\obj\Debug\mang.pdb

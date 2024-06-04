@@ -1,0 +1,10 @@
+C:\Users\mmmma\Documents\Documents\c#\Tinh_tong\Tinh_tong\bin\Debug\Tinh_tong.exe.config
+C:\Users\mmmma\Documents\Documents\c#\Tinh_tong\Tinh_tong\bin\Debug\Tinh_tong.exe
+C:\Users\mmmma\Documents\Documents\c#\Tinh_tong\Tinh_tong\bin\Debug\Tinh_tong.pdb
+C:\Users\mmmma\Documents\Documents\c#\Tinh_tong\Tinh_tong\obj\Debug\Tinh_tong.csproj.AssemblyReference.cache
+C:\Users\mmmma\Documents\Documents\c#\Tinh_tong\Tinh_tong\obj\Debug\Tinh_tong.Form1.resources
+C:\Users\mmmma\Documents\Documents\c#\Tinh_tong\Tinh_tong\obj\Debug\Tinh_tong.Properties.Resources.resources
+C:\Users\mmmma\Documents\Documents\c#\Tinh_tong\Tinh_tong\obj\Debug\Tinh_tong.csproj.GenerateResource.cache
+C:\Users\mmmma\Documents\Documents\c#\Tinh_tong\Tinh_tong\obj\Debug\Tinh_tong.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\Tinh_tong\Tinh_tong\obj\Debug\Tinh_tong.exe
+C:\Users\mmmma\Documents\Documents\c#\Tinh_tong\Tinh_tong\obj\Debug\Tinh_tong.pdb

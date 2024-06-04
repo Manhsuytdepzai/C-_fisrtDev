@@ -1,0 +1,7 @@
+C:\Users\mmmma\Documents\Documents\c#\hinhtron1\hinhtron1\bin\Debug\hinhtron1.exe.config
+C:\Users\mmmma\Documents\Documents\c#\hinhtron1\hinhtron1\bin\Debug\hinhtron1.exe
+C:\Users\mmmma\Documents\Documents\c#\hinhtron1\hinhtron1\bin\Debug\hinhtron1.pdb
+C:\Users\mmmma\Documents\Documents\c#\hinhtron1\hinhtron1\obj\Debug\hinhtron1.csproj.AssemblyReference.cache
+C:\Users\mmmma\Documents\Documents\c#\hinhtron1\hinhtron1\obj\Debug\hinhtron1.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\hinhtron1\hinhtron1\obj\Debug\hinhtron1.exe
+C:\Users\mmmma\Documents\Documents\c#\hinhtron1\hinhtron1\obj\Debug\hinhtron1.pdb

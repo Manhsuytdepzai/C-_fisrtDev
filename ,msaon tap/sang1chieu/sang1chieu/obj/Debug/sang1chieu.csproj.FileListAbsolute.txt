@@ -1,0 +1,7 @@
+C:\Users\mmmma\Documents\Documents\c#\sang1chieu\sang1chieu\bin\Debug\sang1chieu.exe.config
+C:\Users\mmmma\Documents\Documents\c#\sang1chieu\sang1chieu\bin\Debug\sang1chieu.exe
+C:\Users\mmmma\Documents\Documents\c#\sang1chieu\sang1chieu\bin\Debug\sang1chieu.pdb
+C:\Users\mmmma\Documents\Documents\c#\sang1chieu\sang1chieu\obj\Debug\sang1chieu.csproj.AssemblyReference.cache
+C:\Users\mmmma\Documents\Documents\c#\sang1chieu\sang1chieu\obj\Debug\sang1chieu.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\sang1chieu\sang1chieu\obj\Debug\sang1chieu.exe
+C:\Users\mmmma\Documents\Documents\c#\sang1chieu\sang1chieu\obj\Debug\sang1chieu.pdb

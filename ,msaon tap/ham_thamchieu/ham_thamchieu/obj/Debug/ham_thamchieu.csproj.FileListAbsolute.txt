@@ -1,0 +1,7 @@
+C:\Users\mmmma\Documents\Documents\c#\ham_thamchieu\ham_thamchieu\bin\Debug\ham_thamchieu.exe.config
+C:\Users\mmmma\Documents\Documents\c#\ham_thamchieu\ham_thamchieu\bin\Debug\ham_thamchieu.exe
+C:\Users\mmmma\Documents\Documents\c#\ham_thamchieu\ham_thamchieu\bin\Debug\ham_thamchieu.pdb
+C:\Users\mmmma\Documents\Documents\c#\ham_thamchieu\ham_thamchieu\obj\Debug\ham_thamchieu.csproj.AssemblyReference.cache
+C:\Users\mmmma\Documents\Documents\c#\ham_thamchieu\ham_thamchieu\obj\Debug\ham_thamchieu.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\ham_thamchieu\ham_thamchieu\obj\Debug\ham_thamchieu.exe
+C:\Users\mmmma\Documents\Documents\c#\ham_thamchieu\ham_thamchieu\obj\Debug\ham_thamchieu.pdb

@@ -1,0 +1,124 @@
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_GoiDuLieu\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_GoiDuLieu\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_GoiDuLieu\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_GoiDuLieu\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_GoiDuLieu\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmKhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_GoiDuLieu\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_GoiDuLieu\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_GoiDuLieu\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_GoiDuLieu\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_GoiDuLieu\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_1_HienThi\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_1_HienThi\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_1_HienThi\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_1_HienThi\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_1_HienThi\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmKhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_1_HienThi\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_1_HienThi\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_1_HienThi\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_1_HienThi\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_1_HienThi\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_Chon\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_Chon\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_Chon\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_Chon\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_Chon\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmKhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_Chon\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_Chon\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_Chon\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_Chon\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_2_Chon\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmKhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_3_Them\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Sua\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Sua\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Sua\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Sua\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Sua\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Sua\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Sua\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Sua\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Sua\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Sua\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Xoa\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Xoa\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Xoa\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Xoa\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Xoa\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Xoa\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Xoa\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Xoa\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Xoa\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_4_Xoa\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmTimKiem.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe.config
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.pdb
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmKhachHang.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmTimKiem.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.exe
+C:\Users\Administrator\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmKhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmTimKiem.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.pdb
+C:\Users\mmmma\Documents\Documents\c#\ontap\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe.config
+C:\Users\mmmma\Documents\Documents\c#\ontap\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.exe
+C:\Users\mmmma\Documents\Documents\c#\ontap\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\bin\Debug\DanhSachKhachHang.pdb
+C:\Users\mmmma\Documents\Documents\c#\ontap\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.AssemblyReference.cache
+C:\Users\mmmma\Documents\Documents\c#\ontap\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmKhachHang.resources
+C:\Users\mmmma\Documents\Documents\c#\ontap\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.frmTimKiem.resources
+C:\Users\mmmma\Documents\Documents\c#\ontap\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.Properties.Resources.resources
+C:\Users\mmmma\Documents\Documents\c#\ontap\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.GenerateResource.cache
+C:\Users\mmmma\Documents\Documents\c#\ontap\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\Documents\Documents\c#\ontap\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.exe
+C:\Users\mmmma\Documents\Documents\c#\ontap\Tin15A1_DanhSachKhachHang_6_TimKiem_2_Parameter\DanhSachKhachHang\obj\Debug\DanhSachKhachHang.pdb

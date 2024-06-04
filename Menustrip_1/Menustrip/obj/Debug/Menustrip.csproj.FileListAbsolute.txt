@@ -1,0 +1,10 @@
+C:\Users\Vu Anh Tuan\Desktop\Menustrip_1\Menustrip\bin\Debug\Menustrip.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Menustrip_1\Menustrip\bin\Debug\Menustrip.exe
+C:\Users\Vu Anh Tuan\Desktop\Menustrip_1\Menustrip\bin\Debug\Menustrip.pdb
+C:\Users\Vu Anh Tuan\Desktop\Menustrip_1\Menustrip\obj\Debug\Menustrip.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Menustrip_1\Menustrip\obj\Debug\Menustrip.frmFormChinh.resources
+C:\Users\Vu Anh Tuan\Desktop\Menustrip_1\Menustrip\obj\Debug\Menustrip.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Menustrip_1\Menustrip\obj\Debug\Menustrip.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Menustrip_1\Menustrip\obj\Debug\Menustrip.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Menustrip_1\Menustrip\obj\Debug\Menustrip.exe
+C:\Users\Vu Anh Tuan\Desktop\Menustrip_1\Menustrip\obj\Debug\Menustrip.pdb
